@@ -57,7 +57,10 @@ A curated list of resources to become a cloud expert in a self-paced manner.
 ### Database
 * Relational
 * Non-Relational
-** Testing
+  * Key Value
+  * Document
+  * Graph
+  * Column Family
 
 ### Data Transfer
 
