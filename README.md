@@ -13,10 +13,9 @@ A curated list of resources to become a cloud expert in a self-paced manner.
 * Tactical design
 
 ### Architecture styles
-* Big Ball of Mud
+* Big Ball of Mud (Monolith)
 * Unitary (Single Machine / Device)
 * Client / Server
-* Monolith vs Distributed
 * Layered
 * Pipeline
 * Microkernel
@@ -31,6 +30,11 @@ A curated list of resources to become a cloud expert in a self-paced manner.
 ## Cloud Options
 
 ### Compute
+* Virtual Machines
+* Containers
+* Kubernetes
+* Functions as a Service
+* Application Templates
 
 ### Storage
 
@@ -53,9 +57,10 @@ A curated list of resources to become a cloud expert in a self-paced manner.
 
 
 ### Security
+* Identity and Access Management
 * Custom Identity
-* Access Management
 * Data Loss Prevention
+* Compliance Automation
 * Hardware Security Module
 
 
