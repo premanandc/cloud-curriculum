@@ -13,7 +13,18 @@ A curated list of resources to become a cloud expert in a self-paced manner.
 * Tactical design
 
 ### Architecture styles
-*
+* Big Ball of Mud
+* Unitary (Single Machine / Device)
+* Client / Server
+* Monolith vs Distributed
+* Layered
+* Pipeline
+* Microkernel
+* Service Based
+* Event Driven
+* Space-Based
+* Orchestration / Service Based
+* Microservices
 
 ### 12-factor applications
 
