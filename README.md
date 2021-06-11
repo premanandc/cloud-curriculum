@@ -8,6 +8,7 @@ A curated list of resources to become a cloud expert in a self-paced manner.
 ## Concepts
 
 ### Domain-Driven Design
+* Why is DDD relevant here??
 * Evolving to a ubiquitous language
 * Strategic design
 * Tactical design
@@ -27,7 +28,7 @@ A curated list of resources to become a cloud expert in a self-paced manner.
 
 ### 12-factor applications
 
-## Cloud Options
+## Cloud Building Blocks
 
 ### Compute
 * Virtual Machines
@@ -37,17 +38,29 @@ A curated list of resources to become a cloud expert in a self-paced manner.
 * Application Templates
 
 ### Storage
+* Object
+* Block
+* Filestore
+* Backup
 
 ### Network
+* Virtual Networks
+* Dedicated interconnect connection
+* Network Security
+* Network Monitoring
+* Domains and DNS
+* DNS
+* Web Application Firewall
+* 
 
 ### Database
 
 ### Data Transfer
 
 ### Edge Services
-* DNS
 * Load Balancing
 * Service Mesh
+* Service Discovery
 * CDN
 
 ### Delivery
@@ -64,7 +77,7 @@ A curated list of resources to become a cloud expert in a self-paced manner.
 * Hardware Security Module
 
 
-## Scenarios
+## Design Scenarios
 
 ### Applications
 * Classic 3-tier monolith
