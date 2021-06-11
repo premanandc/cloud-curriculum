@@ -42,6 +42,7 @@ A curated list of resources to become a cloud expert in a self-paced manner.
 * Block
 * Filestore
 * Backup
+* Data Transfer
 
 ### Network
 * Virtual Networks
@@ -54,6 +55,9 @@ A curated list of resources to become a cloud expert in a self-paced manner.
 * 
 
 ### Database
+* Relational
+* Non-Relational
+** Testing
 
 ### Data Transfer
 
