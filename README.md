@@ -13,6 +13,15 @@ A curated list of resources to become a cloud expert in a self-paced manner.
 * Strategic design
 * Tactical design
 
+### Distributed System Fundamentals
+* The network is reliable
+* Latency is zero
+* Bandwidth is infinite
+* The network is secure
+* Topology doesn't change
+* There is one administrator
+* Transport cost is zero
+
 ### Architecture styles
 * Big Ball of Mud (Monolith)
 * Unitary (Single Machine / Device)
@@ -27,6 +36,7 @@ A curated list of resources to become a cloud expert in a self-paced manner.
 * Microservices
 
 ### 12-factor applications
+### Evolving the Architecture
 
 ## Cloud Building Blocks
 
@@ -52,7 +62,6 @@ A curated list of resources to become a cloud expert in a self-paced manner.
 * Domains and DNS
 * DNS
 * Web Application Firewall
-* 
 
 ### Database
 * Relational
@@ -75,21 +84,12 @@ A curated list of resources to become a cloud expert in a self-paced manner.
 * CD Pipelines
 * Artifact Management
 
-
 ### Security
 * Identity and Access Management
 * Custom Identity
 * Data Loss Prevention
 * Compliance Automation
 * Hardware Security Module
-
-
-## Design Scenarios
-
-### Applications
-* Classic 3-tier monolith
-* Microservices
-* Message-Driven
 
 ### Data Analytics
 * Data Discovery & Metadata Management
@@ -99,6 +99,12 @@ A curated list of resources to become a cloud expert in a self-paced manner.
 * Data Warehouse
 * Stream Processing
 * Batch Processing
+
+## Design Scenarios
+### Applications
+* Classic 3-tier monolith
+* Microservices
+* Message-Driven
 
 ### Cross-Functional
 * Application Configuration
