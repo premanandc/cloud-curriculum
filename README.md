@@ -103,8 +103,13 @@ A curated list of resources to become a cloud expert in a self-paced manner.
 ## Design Scenarios
 ### Applications
 * Classic 3-tier monolith
-* Microservices
-* Message-Driven
+* RESTful Microservices
+* Event-Driven Microservices
+* Batch Application
+* Batch Flow
+* Streaming Microservices
+* Batch Flow
+* Sagas/Complex Event Processors
 
 ### Cross-Functional
 * Application Configuration
