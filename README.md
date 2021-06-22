@@ -108,7 +108,6 @@ A curated list of resources to become a cloud expert in a self-paced manner.
 * Batch Application
 * Batch Flow
 * Streaming Microservices
-* Batch Flow
 * Sagas/Complex Event Processors
 
 ### Cross-Functional
