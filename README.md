@@ -14,6 +14,8 @@ A curated list of resources to become a cloud expert in a self-paced manner.
 * Tactical design
 
 ### Distributed System Fundamentals
+
+#### Fallacies of Distributed Systems
 * The network is reliable
 * Latency is zero
 * Bandwidth is infinite
@@ -21,6 +23,10 @@ A curated list of resources to become a cloud expert in a self-paced manner.
 * Topology doesn't change
 * There is one administrator
 * Transport cost is zero
+
+#### Problems in Distributed Systems
+* Byzantine General Problem
+* Thundering Herd
 
 ### Architecture styles
 * Big Ball of Mud (Monolith)
@@ -46,6 +52,8 @@ A curated list of resources to become a cloud expert in a self-paced manner.
 * Kubernetes
 * Functions as a Service
 * Application Templates
+* Horizontal vs Vertical Scaling
+* Autoscaling
 
 ### Storage
 * Object
@@ -72,6 +80,11 @@ A curated list of resources to become a cloud expert in a self-paced manner.
   * Column Family
 
 ### Data Transfer
+  * Direct Connect
+  * VPN Tunnels
+  * Hybrid Cloud
+  * Moving data between regions
+  * Transfering data over the internet
 
 ### Edge Services
 * Load Balancing
@@ -88,6 +101,7 @@ A curated list of resources to become a cloud expert in a self-paced manner.
 * Identity and Access Management
 * Custom Identity
 * Data Loss Prevention
+* Disaster Recovery
 * Compliance Automation
 * Hardware Security Module
 
